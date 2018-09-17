@@ -1,0 +1,27 @@
+_repo: A-Virginia-Girl-in-the-Civil-War-1861-1865-being-a-record-of-the-actual-experiences-of-the-wi__52070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Avary, Myrta Lockett
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '41328'
+    url: http://www.gutenberg.org/2009/agents/41328
+description: ''
+gutenberg_issued: '2016-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52070'
+  lccn: '03002700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+- GITenberg
+title: "A Virginia Girl in the Civil War, 1861-1865\r\nbeing a record of the actual\
+  \ experiences of the wife of a Confederate officer"
+url: http://www.gutenberg.org/ebooks/52070
